@@ -13,6 +13,7 @@ INFO
 WARNING
 ERROR
 FATAL
+
 Additionally, the project handles unknown log levels and can output logs in a compressed format with numeric encoding for log levels.
 
 ## Author
